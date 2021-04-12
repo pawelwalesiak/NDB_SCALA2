@@ -1,5 +1,5 @@
 # NDB_SCALA_2
-NBD zad2
+NBD Nierelacyjne Bazy Danych
 
 
 Use pattern matching in a function accepting a String. For strings containing names of days of the week return “work” (Monday-Friday) or “weekend” ( for weekends). For all other strings return “no such day”
